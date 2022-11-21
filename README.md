@@ -16,3 +16,5 @@ JSON of RSS <language> codes (e.g., en, en-us, zh-cn...). Makes it easy to build
 
 
 [![The best podcast search engine: Listen Notes](https://user-images.githubusercontent.com/1719237/202967279-f953e730-c299-4337-af47-2631c45575b1.png)](https://www.listennotes.com/)
+
+btw - try [PodcastAPI.com](https://www.podcastapi.com/)
